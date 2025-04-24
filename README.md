@@ -1,3 +1,2 @@
-# hello
-shit i lost the last readme
-
+# hello 
+i ve recovered the oblivious what am i saying
